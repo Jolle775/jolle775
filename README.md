@@ -3,8 +3,8 @@
 
 <ul>
   <li>🔭 I’m currently working on the Growth of @Lightweb Media</li>
-  <li>🤔 I’m looking for help with WordPress Devs</li>
-  <li>💬 Ask me about BusinessDev topics</li>
+  <li>🤔 I’m looking for help from WordPress Devs</li>
+  <li>💬 Ask me about BusinessDev topics & SEO</li>
   <li>📫 How to reach me: 📧 📱 📣 📫</li>
   <li>😄 Pronouns: he/him</li>
   <li>👨‍💻 All of our projects are available at https://github.com/Lightweb-Media</li>
