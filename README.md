@@ -3,15 +3,17 @@
 
 <ul>
   <li>🔭 I’m currently working on the Growth of @Lightweb Media</li>
-<li>🤔 I’m looking for help with WordPress Devs</li>
-<li>💬 Ask me about BusinessDev topics</li>
-<li>📫 How to reach me: 📧 📱 📣 📫</li>
-<li>😄 Pronouns: he/him</li>
-<li>👨‍💻 All of my projects are available at https://github.com/Lightweb-Media</li>
-<li>📝 I regularly write articles on https://lightweb-media.de</li>
+  <li>🤔 I’m looking for help with WordPress Devs</li>
+  <li>💬 Ask me about BusinessDev topics</li>
+  <li>📫 How to reach me: 📧 📱 📣 📫</li>
+  <li>😄 Pronouns: he/him</li>
+  <li>👨‍💻 All of our projects are available at https://github.com/Lightweb-Media</li>
+  <li>📝 I regularly write articles on https://lightweb-media.de</li>
   <li>📄 I am open for: SEO Consulting, Business Consulting, SEO Audits</li>
 </ul>
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with us:</h3>
+<p>CTO Lightweb Media - https://github.com/3ele-projects</p>
 <p align="left">
 <a href="https://linkedin.com/in/joel-burghardt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel-burghardt" height="30" width="40" /></a>
 <a href="https://fb.com/jo.bj.35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jo.bj.35" height="30" width="40" /></a>
